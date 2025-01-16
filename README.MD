@@ -1,17 +1,6 @@
 # Python for Algorithmic Trading
 ## Code Implementation by Matt Burns
+## Based on Excercises in Python for Algorithmic Trading by Yves Hilpisch
 
-### Source Code
+### Book Source Code
 https://github.com/yhilpisch/py4at/tree/master
-
-### Start
-Activate the virtual env 
-```
-source pyalgo/bin/activate
-```
-
-Start jupyter lab
-
-```
-jupyter lab
-```
