@@ -4,3 +4,9 @@
 
 ### Book Source Code
 https://github.com/yhilpisch/py4at/tree/master
+
+
+
+# Note
+*Skipping chapters 1 -3 as they are review *
+*Skipping chapters 8-9 as they are using legit ForEx Trading Platforms that require sign up*
